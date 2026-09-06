@@ -1,7 +1,7 @@
 ---
 name: Feature
 about: Create a new feature task
-title: "[Feature] "
+title: "【Feature】 "
 labels: feature
 assignees: ""
 type: feature

@@ -1,7 +1,7 @@
 ---
 name: Issue
 about: Create a general issue that requires attention or investigation
-title: "[Issue] "
+title: "【Issue】 "
 labels: issue
 assignees: ""
 type: bug

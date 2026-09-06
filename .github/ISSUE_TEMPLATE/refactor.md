@@ -1,7 +1,7 @@
 ---
 name: Refactor
 about: Plan code changes that improve structure without changing behavior
-title: "[Refactor] "
+title: "【Refactor】 "
 labels: refactor
 assignees: ""
 type: task
