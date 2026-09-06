@@ -13,6 +13,11 @@ type: bug
 
 ## Summary
 
+<!--
+Briefly describe what needs to be implemented and the expected outcome.
+Include the main purpose of this issue.
+-->
+
 Write a short summary of the bug.
 
 ## Current Behavior
@@ -29,12 +34,13 @@ Write a short summary of the bug.
 2. Tap / enter ...
 3. See ...
 
-## Impact
-
-- Who is affected?
-- How often does it happen?
-
 ## Task List
+
+<!--
+Check all items that are required for this issue.
+Remove or leave unchecked any items that are not applicable.
+Add issue-specific tasks when necessary.
+-->
 
 - [ ] Reproduce the issue
 - [ ] Identify root cause
@@ -42,13 +48,6 @@ Write a short summary of the bug.
 - [ ] Add / update validation or state handling
 - [ ] Check related screens or flows
 - [ ] Complete regression testing
-
-## Acceptance Criteria
-
-- [ ] The bug no longer occurs
-- [ ] Existing expected behavior is preserved
-- [ ] Success and failure cases are handled
-- [ ] UI works correctly on supported device sizes
 
 ## Evidence
 
