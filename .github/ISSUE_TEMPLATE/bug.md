@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: Report something that is not working as expected
-title: "【Bug】 "
+title: "[Bug] "
 labels: bug
 assignees: ""
 type: bug
