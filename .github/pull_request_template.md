@@ -5,8 +5,8 @@ Link the related GitHub issue and backlog ticket.
 Use "Closes #<issue-number>" to automatically close the issue when this PR is merged.
 -->
 
-- Closes #
-- Backlog: LENZ_DX-
+- Closes #[issue_id]
+- Backlog: 
 
 ## Summary
 
